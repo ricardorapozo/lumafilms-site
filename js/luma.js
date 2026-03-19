@@ -3,9 +3,9 @@
   
   ---
   
-  Template Name: Quantex - Creative Coming Soon Template
-  Author:  ex-nihilo
-  Version: 1.0
+  Template Name: LUMA
+  Author:  RPZ
+  Version: 0.0E1
 */
 
 
