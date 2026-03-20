@@ -669,14 +669,14 @@ mix-blend-mode: darken;
 
 @media only screen and (max-width: 880px) {
   .page-title-content {
-    font-size: 150px;
+    font-size: 140px;
 	margin: -9px auto -2px auto;
   }
 }
 
 @media only screen and (max-width: 640px) {
   .page-title-content {
-    font-size: 150px;
+    font-size: 140px;
 	margin: -7px auto 0 auto;
   }
 }
