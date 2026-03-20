@@ -629,7 +629,7 @@ z-index: 1;
 position: relative;
 font-family: 'Oswald', sans-serif;
 font-weight: 700;
-font-size: 160px;
+font-size: 400px;
 text-align: center;
 text-transform: uppercase;
 line-height: 1;
@@ -649,14 +649,14 @@ mix-blend-mode: darken;
 
 @media all and (min-width: 1920px) {
   .page-title-content {
-    font-size: 210px;
+    font-size: 500px;
 	margin: -26px auto -6px auto;
   }
 }
 
 @media only screen and (max-width: 1200px) {
   .page-title-content {
-    font-size: 115px;
+    font-size: 300px;
 	margin: -12px auto -3px auto;
   }
 }
@@ -669,14 +669,14 @@ mix-blend-mode: darken;
 
 @media only screen and (max-width: 880px) {
   .page-title-content {
-    font-size: 85px;
+    font-size: 150px;
 	margin: -9px auto -2px auto;
   }
 }
 
 @media only screen and (max-width: 640px) {
   .page-title-content {
-    font-size: 65px;
+    font-size: 150px;
 	margin: -7px auto 0 auto;
   }
 }
